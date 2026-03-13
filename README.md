@@ -15,6 +15,5 @@
 
 ## كيفية التشغيل:
 1. تأكد من وجود ملف البيانات بصيغة .csv في المجلد.
-2. شغل سكربت الفحص: `python inspect_data.py`
-3. نفذ التحويل: `python convert_to_jsonl.py`
+2. يمكنك تشغيل كامل نظام الأتمتة عبر الأمر: `python pipeline_orchestrator.py`
 
